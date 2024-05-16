@@ -1,1 +1,1 @@
-exercices de tests unitaires avec pytest
+exercices de tests unitaires avec pytest et mocking
